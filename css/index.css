@@ -447,7 +447,7 @@ width: 300px; */
   
    */
 
-   @media screen and (max-width: 500px) {
+   /*@media screen and (max-width: 500px) {
     .left-side{
       margin-left: -100px;
       
@@ -457,7 +457,7 @@ width: 300px; */
       margin-left: -50%;
     } */
     
-   }
+  
    @media only screen and (min-width: 1024px) and (max-width: 1680px) {
     /* Styles for laptops */
 
